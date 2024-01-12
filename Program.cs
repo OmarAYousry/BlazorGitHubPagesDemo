@@ -1,4 +1,4 @@
-using PersonlWebsite.Components;
+using PersonalWebsite.Components;
 
 var builder = WebApplication.CreateBuilder(args);
 
